@@ -12,7 +12,7 @@ Tugas ini berisi implementasi berbagai algoritma kriptografi dan steganografi de
 4. **steganogui.py**: Antarmuka untuk steganografi, menyembunyikan pesan dalam gambar.
 
 ## Cara Menjalankan
-Untuk menjalankan setiap file, Tinggal Run aja bang
+Untuk menjalankan setiap file, Run kan file yang dipilih,
 Setelah file dijalankan, jendela antarmuka grafis akan muncul.
 Ikuti langkah-langkah yang disediakan di antarmuka untuk mengenkripsi atau mendekripsi.
 
